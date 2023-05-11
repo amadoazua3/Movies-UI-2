@@ -40,6 +40,7 @@ h3, p {
     background-color: white;
     border: none;
     transition: 0.2s;
+    margin-top: 0.5rem;
     margin-bottom: 0.5rem;
     border-radius: 3px;
 }
